@@ -3,4 +3,3 @@ In this assignment, my group and I had to develop a game based on Pokemon Card B
 - to preview codes: PokemonAssignment file -> src (where PokemonCardBattle.java is the driver class) 
 \
 \
-*Languages stated on GitHub (HTML) refers to JavaDocs documentation of the program.
